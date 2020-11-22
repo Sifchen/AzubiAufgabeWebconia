@@ -23,5 +23,7 @@ Für eine Einschreibung benötigen wir:
 
 
 In diesem Repository finden Sie den php code, die Website und das Stylesheet der Website.
-Um den Webserver aufzusetzen habe ich XAMPP benutzt.
+Um den Webserver und die Datenbank aufzusetzen habe ich XAMPP benutzt.
 Alles andere sollte in der index.php in den Kommentaren stehen.
+
+Bei Fragen gerne per E-Mail melden.
